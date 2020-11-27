@@ -54,7 +54,7 @@ async function predict() {
     const data = {
       Phone: 'My Phone',
       None: 'None, just background',
-      Me_n_Phone: 'Me & Phone'
+      Me_n_Phone: 'Me & Phone',
       Me: 'My face',
     };
 
